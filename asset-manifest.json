@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/1anik-et.github.io/static/css/main.e45fb457.css",
+    "main.js": "/1anik-et.github.io/static/js/main.27b7f2bc.js",
+    "index.html": "/1anik-et.github.io/index.html",
+    "main.e45fb457.css.map": "/1anik-et.github.io/static/css/main.e45fb457.css.map",
+    "main.27b7f2bc.js.map": "/1anik-et.github.io/static/js/main.27b7f2bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45fb457.css",
+    "static/js/main.27b7f2bc.js"
+  ]
+}
